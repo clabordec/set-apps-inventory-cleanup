@@ -3,7 +3,7 @@
 </p>
 
 
-<h1>Comparing Licenses</h1>
+<h1>Inventory Cleanup</h1>
 This project outlines the installation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
