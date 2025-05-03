@@ -11,8 +11,7 @@ This project outlines the installation of on-premises Active Directory within Az
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Purview
 
 <h2>Operating Systems Used </h2>
 
