@@ -11,7 +11,7 @@ This project outlines the installation of on-premises Active Directory within Az
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop Connection
-- Microsoft Purview
+- Microsoft 365 Admin Center
 
 <h2>Operating Systems Used </h2>
 
