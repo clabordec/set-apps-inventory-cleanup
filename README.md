@@ -30,7 +30,11 @@ This project outlines the installation of on-premises Active Directory within Az
     - Password: SecurePassword123!!!
 - Assign `client-1` DNS settings to match the private IP address from `dc-1`
 
-<h2>Deployment and Configuration Steps</h2>
+
+<br>
+
+
+<h1>Actions and Observations</h1>
 
 ## Create Virtual Network
 ### Within Azure create a virtual network, this vn with allow the Virtual Machiness to communicate within the same network
